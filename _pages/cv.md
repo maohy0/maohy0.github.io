@@ -11,28 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Eng. in Communication Engineering, Harbin Institute of Technology, Weihai, 2022.08-2026.06 (expected)
+  * GPA: 3.63/4.0 (first 5 semesters)
 
-Work experience
+Awards and Honors
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* *Scholarship for 4 Consecutive Semesters, Harbin Institute of Technology, Weihai*
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* *3 Commendations，School of Information Science and Technology, Harbin Institute of Technology, Weihai*
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Nov 2024: 2nd prize, Photoelectric Design Technology Innovation Competition for College Students in Shandong Province
+
+* Nov 2024: 1st prize in Shandong Region, the Contemporary Undergraduate Mathematical Contest in Modeling
+
+* Oct 2024: Outstanding Student, Harbin Institute of Technology
+
+* Jul 2024: 2nd prize in Qilu Region, the 13th China Marine Vehicle design and Construction Contest
+
+* Dec 2023: 1st prize, Physics Innovation Competition for College Students in Shandong Province
+
+* Nov 2023: 3rd prize in Shandong Region, the Contemporary Undergraduate Mathematical Contest in Modeling
   
-Skills
+Projects
 ======
 * Skill 1
 * Skill 2
@@ -41,24 +41,8 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Skills
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Programming Languages:** C, LaTeX, Markdown, Python, Bash & PowerShell
+* **Softwares:** NI Multisim, MATLAB, Wolfram Mathematica, Microsoft Office, EasyEDA, Conda, Origin
+* **English Proficiency:** IELTS: 6.5, CET6: 558.
