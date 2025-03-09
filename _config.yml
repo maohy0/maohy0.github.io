@@ -69,11 +69,11 @@ author:
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
-  weibo            : # Username
+  weibo            : "海上生明月200402" # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  youtube          : "HY M" # Username
+  zhihu            : "海上生明月" # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
