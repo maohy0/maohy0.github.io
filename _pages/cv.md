@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Communication Engineering, Harbin Institute of Technology, Weihai, 2022.08-2026.06 (expected)
+* Aug 2022 - Present: B.Eng. in Communication Engineering, Harbin Institute of Technology, Weihai
   * GPA: 3.63/4.0 (first 5 semesters)
+  * Expected to graduate in Jun 2026
 
 Awards and Honors
 ======
@@ -34,12 +35,16 @@ Awards and Honors
   
 Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Jan - Feb 2025: Winter Research Camp, Institute for AI Industry Research, Tsinghua University**
+  * 
+* **Jul - Aug 2024: Summer Institute, Oriel College, University of Oxford**
+  * Course of Symbolic Methods for AI
+
+* **Jul 2024: Summer School, Harbin Institute of Technology**
+
+* **Oct 2023 - Jul 2024: T225 Laboratory, Harbin Institute of Technology, Weihai**
+
+* **Jul 2023: Artificial Intelligence Internship Programme: Nanyang Technological Uninersity**
 
 Skills
 ======
