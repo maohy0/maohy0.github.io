@@ -20,7 +20,7 @@ Awards and Honors
 ======
 * *Scholarship for 4 Consecutive Semesters, Harbin Institute of Technology, Weihai*
 
-* *3 Commendations，School of Information Science and Technology, Harbin Institute of Technology, Weihai*
+* *3 Commendations, School of Information Science and Technology, Harbin Institute of Technology, Weihai*
 
 * Nov 2024: 2nd prize, Photoelectric Design Technology Innovation Competition for College Students in Shandong Province
 
@@ -49,7 +49,7 @@ Projects
   * Based on: LabVIEW, myDAQ
 
 * **Oct 2023 - Jul 2024: T225 Laboratory, Harbin Institute of Technology, Weihai**
-  * Exploring usage of Micro Control Unit (MCU) such as STM32F103, programmed and configured on Keil and STM32CubeMX
+  * Explored usage of Micro Control Unit (MCU) such as STM32F103, programmed and configured on Keil and STM32CubeMX
   * PCB design on Electronics Design Automation (EDA)
   * Tools Used: C, Keil, STM32CubeMX, EasyEDA
 
