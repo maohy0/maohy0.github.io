@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Aug 2022 - Present: B.Eng. in Communication Engineering, Harbin Institute of Technology, Weihai
+* Aug 2022 - Present: **Harbin Institute of Technology, Weihai**
+  * Bachelor in Communication Engineering
+  * Expected graduation time: Jun 2026
   * GPA: 3.63/4.0 (first 5 semesters)
-  * Expected to graduate in Jun 2026
 
 Awards and Honors
 ======
@@ -36,15 +37,26 @@ Awards and Honors
 Projects
 ======
 * **Jan - Feb 2025: Winter Research Camp, Institute for AI Industry Research, Tsinghua University**
-  * 
+  * Participated in the project “End-to-End Autonomous Driving”, an excellent enlightenment to research in the future
+  * Doing research about the possible combination of [PreSight](https://github.com/yuantianyuan01/PreSight) with other models
 * **Jul - Aug 2024: Summer Institute, Oriel College, University of Oxford**
-  * Course of Symbolic Methods for AI
+  * Course of Symbolic Methods in AI
+  * Introduction of principles of AI, mainly about classical logic, logic programming and knowledge graphs, etc.
 
-* **Jul 2024: Summer School, Harbin Institute of Technology**
+* **Jul 2024: “Digital Base, Intelligent Foundation” Summer School, Harbin Institute of Technology**
+  * Audio signal processing with LabVIEW
+  * Lectures about related research directions, methodology and stories
+  * Based on: LabVIEW, myDAQ
 
 * **Oct 2023 - Jul 2024: T225 Laboratory, Harbin Institute of Technology, Weihai**
+  * Exploring usage of Micro Control Unit (MCU) such as STM32F103, programmed and configured on Keil and STM32CubeMX
+  * PCB design on Electronics Design Automation (EDA)
+  * Tools Used: C, Keil, STM32CubeMX, EasyEDA
 
 * **Jul 2023: Artificial Intelligence Internship Programme: Nanyang Technological Uninersity**
+  * Learnt about Convolutional Neural Network (CNN) in the field of Machine Learning initially
+  * Practicum in image processing and learning with CNN; graphical programming in Orange
+  * Based on: Anaconda, Orange, OpenCV
 
 Skills
 ======
