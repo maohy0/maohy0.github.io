@@ -1,7 +1,7 @@
 ---
 title: 'Some Commonly Used Ubuntu Commands'
 date: 2025-03-10
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2025/03/linux-commands/
 tags:
   - linux
   - programming
