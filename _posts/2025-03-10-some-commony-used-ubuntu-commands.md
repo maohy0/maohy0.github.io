@@ -1,5 +1,5 @@
 ---
-title: 'Some Commonly Used Ubuntu Commands'
+title: 'Some Commonly Used Ubuntu Commands (Updating)'
 date: 2025-03-10
 permalink: /posts/2025/03/linux-commands/
 tags:
