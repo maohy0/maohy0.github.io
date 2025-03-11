@@ -49,7 +49,7 @@ Projects
   * Based on: LabVIEW, myDAQ
 
 * **Oct 2023 - Jul 2024: T225 Laboratory, Harbin Institute of Technology, Weihai**
-  * Explored usage of Micro Control Unit (MCU) such as STM32F103, programmed and configured on Keil and STM32CubeMX
+  * Explored innovative usage of Micro Control Unit (MCU) such as STM32F103, programmed and configured on Keil and STM32CubeMX
   * PCB design on Electronics Design Automation (EDA)
   * Tools Used: C, Keil, STM32CubeMX, EasyEDA
 
