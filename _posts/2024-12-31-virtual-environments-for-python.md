@@ -34,7 +34,7 @@ Then we could operate the environment, manage packages with pip or run *.py scri
 
 Last but not least, it's a good habit to deactivate env after our modification. With just a single command
 
-```bash
+```powershell
 deactivate
 ```
 
