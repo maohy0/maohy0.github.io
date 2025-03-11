@@ -29,5 +29,5 @@ git init
 git add .
 git commit -m "Commit Content"
 git remote add origin git@github.com:username/reponame.git
-git push -u origin main # or master, depending the branch name
+git push -u origin main # or master, depending on the branch name
 ```
