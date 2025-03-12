@@ -24,22 +24,22 @@ Here are the 2 examples' Multisim Schematics.
 
 #### DC
 
-<img src='/images/multisim1.png' width=900><br/>
+<img src='/images/multisim1.PNG' width=900><br/>
 
 \\(U_1\\) and \\(I_1\\) could be easily solved by Multisim just like the following image:
 
-<img src='/images/multisim2.png' width=900><br/>
+<img src='/images/multisim2.PNG' width=900><br/>
 
 #### AC
 The alternating circuit could also be simulated in Multisim.
 
-<img src='/images/multisim3.png' width=900><br/>
+<img src='/images/multisim3.PNG' width=900><br/>
 
 Here I tried 2 different frequencies, where \\(159.15=\frac{1000}{2\pi}\\). All of them gave me satisfying answers.
 
-<img src='/images/multisim4.png' width=900><br/>
+<img src='/images/multisim4.PNG' width=900><br/>
 
-<img src='/images/multisim5.png' width=900><br/>
+<img src='/images/multisim5.PNG' width=900><br/>
 
 For Analog Electronics
 -----
