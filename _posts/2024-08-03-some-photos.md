@@ -6,6 +6,8 @@ tags:
   - sharing
 ---
 
+Share photos here.
+
 An interesting encounter with GitHub in Oxford, England.
 
 <img src='/images/ox-github.jpg' width = "500"><br/>
