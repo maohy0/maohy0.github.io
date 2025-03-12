@@ -1,5 +1,5 @@
 ---
-title: 'Album'
+title: 'Some Photos'
 date: 2024-08-03
 permalink: /posts/2024/08/album/
 tags:
