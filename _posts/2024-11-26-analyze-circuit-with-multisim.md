@@ -14,7 +14,7 @@ For Basic Electric Circuits
 -----
 In the course of "fundamentals of electric circuits", we learnt common components e.g. Inductors, capacitors, and phaser analysis, and had a new understanding of Ohm's Law.
 
-\\(Z=R+\text{j}\left(\omega L-\frac{1}{\omega C}\right)\\). \\(Z=\frac{\dot{U}}{\dot{I}}\\), where \\(\dot{U}=\left|U \right| \cdot \phase\varphi\\).
+\\(Z=R+\text{j}\left(\omega L-\frac{1}{\omega C}\right)\\). \\(Z=\frac{\dot{U}}{\dot{I}}\\), where \\(\dot{U}=\mid U \mid \cdot \phase\varphi\\).
 
 At the same time, we also analyzed specific circuits with different methods.
 
