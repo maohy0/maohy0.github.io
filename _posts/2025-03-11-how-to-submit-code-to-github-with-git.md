@@ -1,7 +1,7 @@
 ---
 title: 'How to Submit Code to Github with Git'
 date: 2025-03-11
-permalink: /posts/2025/03/git-submission/
+permalink: /posts/2025/03/git/
 tags:
   - git
   - programming

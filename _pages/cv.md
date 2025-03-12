@@ -18,11 +18,11 @@ Education
 
 Awards and Honors
 ------
+* Dec 2024: Outstanding Student, Harbin Institute of Technology
+
 * Dec 2024: 3rd Grade Scholarship, Harbin Institute of Technology, Weihai
 
 * Nov 2024: 3 Commendations, School of Information Science and Technology, Harbin Institute of Technology, Weihai
-
-* Oct 2024: Outstanding Student, Harbin Institute of Technology
 
 * Jun 2024: 2nd Grade Scholarship, Harbin Institute of Technology, Weihai
 
@@ -49,6 +49,8 @@ Projects
 * **Jan - Feb 2025: Winter Research Camp, Institute for AI Industry Research, Tsinghua University**
   * Participated in the project "End-to-End Autonomous Driving", an excellent enlightenment to research in the future
   * Doing research about the possible combination of [PreSight](https://github.com/yuantianyuan01/PreSight) with other models
+  * Based on: PyTorch, Ubuntu, Conda
+  
 * **Jul - Aug 2024: Summer Institute, Oriel College, University of Oxford**
   * Course of Symbolic Methods in AI
   * Introduction of principles of AI, mainly about classical logic, logic programming and knowledge graphs, etc.

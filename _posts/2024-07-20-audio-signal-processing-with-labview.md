@@ -1,7 +1,7 @@
 ---
 title: 'Audio Signal Processing with LabVIEW (Updating)'
 date: 2024-07-20
-permalink: /posts/2024/07/audio-processing/
+permalink: /posts/2024/07/labview/
 tags:
   - software
   - hardware
