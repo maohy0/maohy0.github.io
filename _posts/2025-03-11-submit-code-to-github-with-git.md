@@ -1,5 +1,5 @@
 ---
-title: 'How to Submit Code to GitHub with Git'
+title: 'Submit Code to GitHub with Git'
 date: 2025-03-11
 permalink: /posts/2025/03/git/
 tags:
