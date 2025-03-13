@@ -8,8 +8,6 @@ tags:
   - software
 ---
 
-[toc]
-
 In Python development, managing dependencies across multiple projects can be challenging due to varying requirements for library versions or even the Python interpreter itself. Virtual environments offer a solution by isolating project-specific dependencies, ensuring smooth execution and preventing conflicts between projects. Among the tools available for creating and managing virtual environments, two of the most commonly used options are **venv** and **conda**.
 
 Using venv

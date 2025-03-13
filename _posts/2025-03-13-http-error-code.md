@@ -7,8 +7,6 @@ tags:
   - software
 ---
 
-[toc]
-
 When there are too many visitors to the server, the following error might appear on your browser.
 
 <img src='/images/httperror1.jpg' width=750><br/>
