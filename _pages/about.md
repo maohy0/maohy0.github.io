@@ -14,6 +14,6 @@ I am now updating [Blog Posts](/year-archive/), [previous project code](https://
 At last, for collaborations, questions, or just a chat, feel free to drop me an [Email](mailto:m3747hongyu@outlook.com). Thanks for stopping by - your visit means a lot! And by the way, good luck to all of you! ヾ(≧▽≦*)o
 
 
-> You can't go back and change the beginning, but you can start where you are and change the endding.
+> You can't go back and change the beginning, but you can start where you are and change the ending.
 >
 > 悟已往之不谏，知来者之可追。  —— 陶渊明《归去来兮辞·并序》
