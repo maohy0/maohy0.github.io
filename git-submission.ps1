@@ -5,8 +5,8 @@ git init
 git add .
 
 # Commit change, pause and wait for input from user
-commit-message = Read-Host "Commit Message"
-git commit -m $commit-message
+$commitMessage = Read-Host "Commit Message"
+git commit -m $commitMessage
 
 # Push to github
 git push origin master
