@@ -46,7 +46,7 @@ Competitions
 
 Projects
 ------
-* **Jan - Feb 2025: Winter Research Camp, Institute for AI Industry Research, Tsinghua University**
+* **Dec 2024 - Feb 2025: WINTER AIR Program, Institute for AI Industry Research, Tsinghua University**
   * Participated in the project "End-to-End Autonomous Driving", an excellent enlightenment to research in the future
   * Doing research about the possible combination of [PreSight](https://github.com/yuantianyuan01/PreSight) with other models
   * Based on: PyTorch, Ubuntu, Conda
