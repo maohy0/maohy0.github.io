@@ -37,7 +37,7 @@ Projects
   * PCB design on Electronics Design Automation (EDA)
   * Tools Used: C, Keil, STM32CubeMX, EasyEDA
 
-* **Jul 2023: Artificial Intelligence Internship Programme: Nanyang Technological Uninersity**
+* **Jul 2023: Artificial Intelligence Internship Programme, Nanyang Technological Uninersity**
   * Learnt about Convolutional Neural Network (CNN) in the field of Machine Learning initially
   * Practicum in image processing and learning with CNN; graphical programming in Orange
   * Based on: Anaconda, Orange, OpenCV
