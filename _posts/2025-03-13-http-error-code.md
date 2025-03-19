@@ -13,6 +13,8 @@ When there are too many visitors to the server, the following error might appear
 
 What we most often encounter is HTTP `4xx` and `5xx`. So what do they mean?
 
+> Related information come from Blogs on [CSDN](https://blog.csdn.net) and [Qwen](https://chat.qwen.ai)
+
 HTTP 4xx -> Client Errors
 -----
 
@@ -86,5 +88,3 @@ Other Categories of Code
 | **308**          | Permanent Redirect      | The resource has been permanently moved to a new location (method unchanged).|
 
 ---
-
-> Related information come from Blogs on [CSDN](https://blog.csdn.net) and [Qwen](https://chat.qwen.ai)
