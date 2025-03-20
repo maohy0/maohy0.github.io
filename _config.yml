@@ -25,11 +25,11 @@ author:
   avatar           : "informal.png"
   name             : "Mao Hongyu"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate at Harbin Institute of Technology, Weihai"
+  bio              : "an undergraduate"
   location         : "Weihai, China"
   employer         : "Harbin Institute of Technology"
   uri              : # URL
-  email            : "m3747hongyu@outlook.com" 
+  email            : "m3747hongyu@qq.com" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
@@ -46,7 +46,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "maohy0"
-  kaggle           : "maohy0"  
+  kaggle           : "maohy0" 
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
