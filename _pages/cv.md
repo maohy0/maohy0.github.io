@@ -18,26 +18,26 @@ Education
 
 Projects
 ------
-* **Dec 2024 - Feb 2025: WINTER AIR Program, Institute for AI Industry Research, Tsinghua University**
+* Dec 2024 - Feb 2025: **WINTER AIR Program, Institute for AI Industry Research, Tsinghua University**
   * Participated in the project "End-to-End Autonomous Driving", an excellent enlightenment to research in the future
   * Doing research about the possible combination of [PreSight](https://github.com/yuantianyuan01/PreSight) with other models
   * Based on: PyTorch, Ubuntu, Conda
   
-* **Jul - Aug 2024: Summer Institute, Oriel College, University of Oxford**
+* Jul - Aug 2024: **Summer Institute, Oriel College, University of Oxford**
   * Course of Symbolic Methods in AI
   * Introduction of principles of AI, mainly about classical logic, logic programming and knowledge graphs, etc.
 
-* **Jul 2024: "Digital Base, Intelligent Foundation" Summer School, Harbin Institute of Technology**
+* Jul 2024: **"Digital Base, Intelligent Foundation" Summer School, Harbin Institute of Technology**
   * Audio signal processing with LabVIEW
   * Professor and PhD Lectures about related research directions, methodology and stories
   * Based on: LabVIEW, myDAQ
 
-* **Oct 2023 - Jul 2024: T225 Laboratory, Harbin Institute of Technology, Weihai**
+* Oct 2023 - Jul 2024: **T225 Laboratory, Harbin Institute of Technology, Weihai**
   * Explored innovative usage of Micro Control Unit (MCU) such as STM32F103, programmed and configured on Keil and STM32CubeMX
   * PCB design on Electronics Design Automation (EDA)
   * Tools Used: C, Keil, STM32CubeMX, EasyEDA
 
-* **Jul 2023: Artificial Intelligence Internship Programme, Nanyang Technological Uninersity**
+* Jul 2023: **Artificial Intelligence Internship Programme, Nanyang Technological Uninersity**
   * Learnt about Convolutional Neural Network (CNN) in the field of Machine Learning initially
   * Practicum in image processing and learning with CNN; graphical programming in Orange
   * Based on: Anaconda, Orange, OpenCV
@@ -74,6 +74,6 @@ Awards and Honors
 
 Skills
 ------
-* **Programming Languages:** C, LaTeX, Markdown, Python, Bash & PowerShell
-* **Softwares:** NI Multisim, MATLAB, Wolfram Mathematica, Microsoft Office, EasyEDA, Conda, Origin
-* **Natural Languages:** Mandarin (mother tongue), English (IELTS: 6.5, CET6: 558).
+* **Natural Languages:** Mandarin (mother tongue), English (IELTS: 6.5, CET4: 565, CET6: 558),
+* **Programming Languages:** C, LaTeX, Markdown, Python, Bash & PowerShell,
+* **Software Tools:** Visual Studio Code, MATLAB, Wolfram Mathematica, Microsoft Office, EasyEDA, NI Multisim, Keil, Conda, Git.
