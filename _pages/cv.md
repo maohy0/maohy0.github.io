@@ -74,6 +74,6 @@ Awards and Honors
 
 Skills
 ------
-* **Natural Languages:** Mandarin (mother tongue), English (IELTS: 6.5, CET4: 565, CET6: 558),
+* **Natural Languages:** Mandarin Chinese (mother tongue), English (IELTS: 6.5, CET4: 565, CET6: 558),
 * **Programming Languages:** C, LaTeX, Markdown, Python, Bash & PowerShell,
 * **Software Tools:** Visual Studio Code, MATLAB, Wolfram Mathematica, Microsoft Office, EasyEDA, NI Multisim, Keil, Conda, Git.
