@@ -11,3 +11,7 @@ Share photos here.
 An interesting encounter with GitHub in Oxford, England.
 
 <img src='/images/ox-github.jpg' width = "500"><br/>
+
+Flower in Weihai Campus.
+
+<img src='/images/flower-hitwh.jpg' width = "500"><br/>

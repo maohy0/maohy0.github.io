@@ -21,7 +21,7 @@ Using venv
    ```
    This command creates a folder named `envname` in our project directory. The virtual environment will be stored within this folder.
 
-   > **Note:** The virtual environment is specific to our project and cannot be shared globally unless explicitly exported.
+   > **Note:** The virtual environment is specific to ONE project and cannot be shared with others.
 
 2. **Activate the Virtual Environment:**
    Depending on our operating system, use the appropriate activation command:
