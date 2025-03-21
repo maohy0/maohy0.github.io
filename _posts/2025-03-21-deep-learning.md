@@ -6,6 +6,8 @@ tags:
   - notes
   - software
   - python
-  - programming
+  - ai
 ---
 
+For deep learning, machine learning and artificial intelligence, in my opinion, they have such relation:
+\\[\text{Deep Learning} \subset \text{Machine Learning} \subset \text{Artificial Intelligence}\\]
