@@ -57,7 +57,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "HYM117082034043" # Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -67,12 +67,12 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "HYM117082034043" # Username for X / Twitter
   vine             : # Username
   weibo            : "7515328870" # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "HYM-j9h" # Username
   zhihu            : "93-29-65-23-34" # Username
 
 # Publication Category - The following the list of publication categories and their headings
@@ -131,7 +131,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : HYM117082034043
+  username               : "HYM117082034043"
 facebook:
   username               :
   app_id                 :
